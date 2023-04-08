@@ -34,7 +34,6 @@ const ToDo =() => {
         });
         setToDoItems(newTodoItems);
     }
-    console.log(textInput?.current);
     return (
         <div>
             <h3>Todo App</h3>
